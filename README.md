@@ -17,10 +17,10 @@ Through my studies, I've worked with:
 
 ## 🚀 Interests
 
-- Computer hardware
-- Computer networks
+- DevOps and automation
+- Software development
 - Systems and infrastructure
-- Cybersecurity
+- Exploring new technologies
 
 ## 🎯 Goals
 
