@@ -4,11 +4,11 @@
 
 I'm currently studying Computer Systems Engineering at UPCA. I'm eager to explore different areas of technology, solve problems, and keep developing my skills.
 
-While I'm open to opportunities across the technology sector, I'm particularly interested in pursuing a career in DevOps.
+My main interests are computer hardware, networking, systems, and cybersecurity. I enjoy understanding how technology works and troubleshooting technical problems, and I'm looking for opportunities to develop practical skills in these areas.
 
-## 💻 Technologies
+## 💻 Academic Experience
 
-Languages I've worked with:
+Through my studies, I've worked with:
 
 - C#
 - C
@@ -17,14 +17,14 @@ Languages I've worked with:
 
 ## 🚀 Interests
 
-- DevOps and automation
-- Software development
+- Computer hardware
+- Computer networks
 - Systems and infrastructure
-- Exploring new technologies
+- Cybersecurity
 
 ## 🎯 Goals
 
 - Complete my degree in Computer Systems Engineering
 - Gain hands-on experience through projects and collaboration
-- Develop practical skills in DevOps
+- Develop practical skills in hardware, networking, systems, and cybersecurity
 - Build a career in technology
