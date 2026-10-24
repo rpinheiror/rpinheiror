@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Rodrigo Pinheiro
 
-<!--
-**rpinheiror/rpinheiror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm currently studying Computer Systems Engineering at UPCA. I'm eager to explore different areas of technology, solve problems, and keep developing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I'm open to opportunities across the technology sector, I'm particularly interested in pursuing a career in DevOps.
+
+## 💻 Technologies
+
+Languages I've worked with:
+
+- C#
+- C
+- HTML
+- JavaScript
+
+## 🚀 Interests
+
+- DevOps and automation
+- Software development
+- Systems and infrastructure
+- Exploring new technologies
+
+## 🎯 Goals
+
+- Complete my degree in Computer Systems Engineering
+- Gain hands-on experience through projects and collaboration
+- Develop practical skills in DevOps
+- Build a career in technology
