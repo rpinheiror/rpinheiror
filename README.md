@@ -28,3 +28,10 @@ Languages I've worked with:
 - Gain hands-on experience through projects and collaboration
 - Develop practical skills in DevOps
 - Build a career in technology
+
+## 📂 Selected Projects
+
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [Supplier Catalog Integration & Stock Replenishment](https://github.com/rpinheiror/TP_ISI) | Consolidating catalogs and generating replenishment proposals; my main contribution was the KNIME workflow | Pentaho Kettle, SQL Server, KNIME |
+| [Antenna Network Manager](https://github.com/rpinheiror/MAIN-Repository) | Modeling antenna connections with graphs and linked lists | C, GCC, Make, Doxygen |
